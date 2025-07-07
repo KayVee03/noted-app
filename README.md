@@ -4,8 +4,6 @@ A full-stack note-taking app built with React and Spring Boot, designed to provi
 ✨ Features
 🖊️ Create, edit, and delete personal notes
 
-🌓 Light and dark theme toggling for a comfortable UI
-
 🔐 Secure RESTful APIs built with Spring Boot & Hibernate
 
 💾 MySQL integration for efficient data storage
