@@ -34,3 +34,6 @@ A full-stack note-taking app built with **React** and **Spring Boot**, designed 
 
 ## 🚀 Project Structure
 
+noted-app/
+├── noted-frontend/ # React frontend
+└── noted-backend/ # Spring Boot backend
